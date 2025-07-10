@@ -14,13 +14,11 @@ I'm currently learning and working on small projects using technologies like:
 - 🐍 Basic Python  
 - 🔧 Git & GitHub  
 
-I enjoy learning by doing and sharing my journey with others in the developer community.
-
 ---
 
 ### 📫 Contact Me
-- Email: _[your-email@example.com]_  
-- LinkedIn: _[optional link]_
+- Email: _maylanilaura01@gmail.com_  
+- LinkedIn: _[]_
 
 ---
 
@@ -30,6 +28,4 @@ I enjoy learning by doing and sharing my journey with others in the developer co
 </p>
 
 ---
-
-Thanks for stopping by! ☀️  
 _Keep learning, keep building!_
