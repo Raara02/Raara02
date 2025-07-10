@@ -18,7 +18,7 @@ I'm currently learning and working on small projects using technologies like:
 
 ### 📫 Contact Me
 - Email: _maylanilaura01@gmail.com_  
-- LinkedIn: _[]_
+- LinkedIn: _www.linkedin.com/in/laura-maylani_
 
 ---
-_Keep learning, keep building!_
+_*Keep learning, keep building!*_
