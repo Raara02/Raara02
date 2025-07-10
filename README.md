@@ -21,11 +21,4 @@ I'm currently learning and working on small projects using technologies like:
 - LinkedIn: _[]_
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raara02&show_icons=true&theme=gruvbox" alt="Ara's GitHub Stats">
-</p>
-
----
 _Keep learning, keep building!_
